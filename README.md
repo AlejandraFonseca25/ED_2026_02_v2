@@ -180,6 +180,3 @@ estado en el que quedó.
 ## 👨‍🏫 Autor
 
 Curso diseñado por **Arley Fernando Torres Galindo**.
-
-## Un cambio para Fonseca
-Veamos que funciona
