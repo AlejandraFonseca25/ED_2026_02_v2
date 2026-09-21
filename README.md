@@ -180,3 +180,17 @@ estado en el que quedó.
 ## 👨‍🏫 Autor
 
 Curso diseñado por **Arley Fernando Torres Galindo**.
+
+---
+
+## Consulta de notas
+
+Escanea el código QR o entra directamente al enlace para consultar tus notas:
+
+<p align="center">
+  <img src="notebooks/assets/qr_consulta_notas.png" alt="QR consulta de notas" width="220">
+</p>
+
+🔗 [Consultar notas](https://script.google.com/macros/s/AKfycbws2_O9VlGq6_hwd5f01ZNrIDkbQVNcQrbs0wgA0kQhBign0fXPBoqzowuIDOTOPAfs6g/exec)
+
+`https://script.google.com/macros/s/AKfycbws2_O9VlGq6_hwd5f01ZNrIDkbQVNcQrbs0wgA0kQhBign0fXPBoqzowuIDOTOPAfs6g/exec`
