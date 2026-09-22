@@ -71,9 +71,11 @@ traigas actualizaciones del profesor (Paso 5). Guarda **siempre** ahí.
 ### Cómo organizar `student_work/`
 
 Dentro de `student_work/` organiza tu trabajo **por capítulos, con el mismo nombre de carpeta que usa
-`goodrich/`** (`ch01/`, `ch02/`, `ch03/`... un número por cada capítulo del libro). Cuando resuelvas un
-laboratorio o ejercicio que el profesor entregó en `notebooks/`, cópialo a la carpeta del capítulo que
-corresponda **sin cambiarle el nombre al archivo** — el mismo nombre con el que lo entregó el profesor.
+`notebooks/`** (`ch03_algorithm_analysis/`, `ch04_recursion/`, `ch08_binary_trees/`...). Es literalmente
+copiar y pegar cada carpeta: cuando resuelvas un laboratorio o ejercicio que el profesor entregó en
+`notebooks/`, crea en `student_work/` una carpeta con el **nombre exacto** de esa carpeta de `notebooks/`
+y copia ahí el archivo **sin cambiarle el nombre**. No uses la numeración corta de `goodrich/` (`ch03/`,
+`ch04/`) — esa es la del código del libro, no la de tu entrega.
 
 Esto importa porque los scripts de calificación buscan tu trabajo por nombre de archivo. Si renombras un
 notebook (por ejemplo a `lab_final_v2.ipynb`), el corrector no lo va a encontrar y tu entrega puede quedar
